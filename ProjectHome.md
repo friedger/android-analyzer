@@ -1,0 +1,5 @@
+The various Android release versions, form factors and manufacturer customizations have caused a significant fragmentation problem. Writing one app that runs on all Android devices is very hard to achieve (and sometime impossible). This project tries to help app developers by generating as much and as detailed insights about particular Android devices as possible.
+
+Android Analyzer aims at developing an Android application that analyzes and collects hardware and software capabilities of devices based on the Android OS. Our ultimate goal is to create a comprehensive, state-of-the-art repository of data for a wide range of devices - from mobile phones, to tablets, STBs, smarthome panels, and anything else that runs Android. The database will support the developer community in addressing fragmentation problems of the Android platform.
+
+Android Analyzer will be made freely available on the Android Market, so that both developers and consumer can have an easy access. The data will be reported and available on the http://AndroidFragmentation.com site.
